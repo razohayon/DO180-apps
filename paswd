@@ -1,0 +1,6 @@
+[student@workstation ~]$ cat /usr/local/etc/ocp4.config 
+RHT_OCP4_MASTER_API=api.ocp-jrgmxgmmpqywkjl200219.do280.prod.nextcle.com:6443
+RHT_OCP4_CLUSTER_ID=e51996b3-4193-4b65-baf1-a323500943f1
+RHT_OCP4_WILDCARD_DOMAIN=apps.ocp-jrgmxgmmpqywkjl200219.do280.prod.nextcle.com
+RHT_OCP4_KUBEADM_PASSWD=w9GDx-nUWji-QEHUN-oNQgY
+RHT_OCP4_USER_PASSWD=47f5e4264a3b49725bb84d54a6e16551
